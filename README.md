@@ -13,8 +13,7 @@ I love to learn about how things work and try new tools and technologies.
 # Skills
 ## Programming Languages:
 
-<img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/Java informational" alt="Java" /> 
-
+### Java, JavaScript, NodeJS, Python-3, MongoDB, MySQL
 <!-- * C/C++
 * JavaScript (ES6)
 * Java
