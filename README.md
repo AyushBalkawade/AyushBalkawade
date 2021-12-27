@@ -13,7 +13,7 @@ I love to learn about how things work and try new tools and technologies.
 # Skills
 ## Programming Languages:
 
-### Java, JavaScript, NodeJS, Python-3, MongoDB, MySQL
+### Java, JavaScript, Python-3.
 <!-- * C/C++
 * JavaScript (ES6)
 * Java
