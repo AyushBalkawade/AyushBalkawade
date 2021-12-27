@@ -21,7 +21,7 @@ I love to learn about how things work and try new tools and technologies.
 
 ## Frameworks:
 
-### Node.js, Express.js, Hapi.js, MongoDB.
+### Node.js, Express.js, Hapi.js, MongoDB, SwaggerAPI.
 
 ## Database:
 
